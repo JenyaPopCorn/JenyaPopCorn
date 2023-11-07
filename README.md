@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Jenya 👋
 
-<!--
-**JenyaPopCorn/JenyaPopCorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Нахожусь в начале пути специалиста в новой, но очень интересной для себя профессии Аналитик данных.
 
-Here are some ideas to get you started:
+- 🧱 Пришла в мир IT из мира строительства
+- 🌱 Получила отличную базу знаний с помощью Яндекс.Практикум
+- 🍄 Давно и с удовольствием работаю с разными объемами данных
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Приглашаю ознакомиться с учебными проектами в репозитории <a href='[https://github.com/JenyaPopCorn/portfolio]'>portfolio</a>.
+
+### Connect with me:
+<a href='[https://t.me/jenyapopcorn]'>Telegram</a>
+<a href='[https://wa.me/79307001388]'>WhatsApp</a>
